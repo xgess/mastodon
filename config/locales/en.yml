@@ -84,11 +84,11 @@ en:
       by_domain: Domain
       change_email:
         changed_msg: Account email successfully changed!
-        current_email: Current Email
-        label: Change Email
-        new_email: New Email
-        submit: Change Email
-        title: Change Email for %{username}
+        current_email: Current email
+        label: Change email
+        new_email: New email
+        submit: Change email
+        title: Change email for %{username}
       confirm: Confirm
       confirmed: Confirmed
       confirming: Confirming
@@ -99,17 +99,17 @@ en:
       display_name: Display name
       domain: Domain
       edit: Edit
-      email: E-mail
-      email_status: E-mail Status
+      email: Email
+      email_status: Email status
       enable: Enable
       enabled: Enabled
       feed_url: Feed URL
       followers: Followers
-      followers_local: "(%{local} local)"
       followers_url: Followers URL
       follows: Follows
       header: Header
       inbox_url: Inbox URL
+      invited_by: Invited by
       ip: IP
       location:
         all: All
@@ -155,22 +155,22 @@ en:
         user: User
       salmon_url: Salmon URL
       search: Search
-      shared_inbox_url: Shared Inbox URL
+      shared_inbox_url: Shared inbox URL
       show:
-        created_reports: Reports created by this account
-        report: report
-        targeted_reports: Reports made about this account
+        created_reports: Made reports
+        targeted_reports: Reported by others
       silence: Silence
       silenced: Silenced
       statuses: Statuses
       subscribe: Subscribe
       suspended: Suspended
       title: Accounts
-      unconfirmed_email: Unconfirmed E-mail
+      unconfirmed_email: Unconfirmed email
       undo_silenced: Undo silence
       undo_suspension: Undo suspension
       unsubscribe: Unsubscribe
       username: Username
+      warn: Warn
       web: Web
     action_logs:
       actions:
