@@ -246,7 +246,7 @@ $no-columns-breakpoint: 600px;
         margin-right: 8px;
       }
 
-      .invalid {
+      .inactive {
         color: $error-red;
       }
 
@@ -254,7 +254,7 @@ $no-columns-breakpoint: 600px;
         text-align: center;
       }
 
-      .valid {
+      .active {
         color: $success-green;
       }
     }
